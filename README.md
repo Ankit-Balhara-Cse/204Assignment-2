@@ -1,0 +1,1 @@
+This is a console-based Java application designed to manage book records in a library using Single Linked List. It supports basic operations like inserting, deleting, searching, and displaying books. The system is built as part of the Data Structures (ENCS205) assignment for K.R. Mangalam University.
